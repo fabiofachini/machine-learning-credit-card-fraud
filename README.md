@@ -2,7 +2,8 @@
  
 Trabalho de conclusão de curso desenvolvido no curso de pós-graduação em Ciências de Dados da PUC-RS em 2023.
 
-Publicação disponível em: https://publicacoes.even3.com.br/tcc/machine-learning-para-deteccao-de-fraudes-em-cartao-de-credito-2022494
+# Publicação
+https://publicacoes.even3.com.br/tcc/machine-learning-para-deteccao-de-fraudes-em-cartao-de-credito-2022494
 
 # Título
 MACHINE LEARNING PARA DETECÇÃO DE FRAUDES EM CARTÃO DE CRÉDITO
